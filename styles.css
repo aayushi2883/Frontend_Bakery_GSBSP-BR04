@@ -1,10 +1,29 @@
+/* Nav bar */
+.navbar-brand{
+  width: 15%;
+}
+.navbar-nav{
+width: 400px;
+font-size: 1.2rem;
+font-family: 'Permanent Marker', cursive;
+color: #000;
+}
 
-  /* Headings */
+.nav-item{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+
+
+
+/* Headings */
 
 .first_heading{
   font-family: 'Bungee Shade', cursive;
   text-align: center;
-  font-size: 6rem;
+  font-size: 6.6rem;
   margin-bottom: 0px;
   height: 170px;
   font-stretch: expanded;
@@ -14,14 +33,16 @@
   font-family: 'Permanent Marker', cursive;
   text-align: center;
   font-size: 2rem;
-
+  margin-top: 50px;
+padding-top: 10px;
+margin-bottom: 0px;
 }
 
 /* Container holding the image and text */
 .first {
   position: relative;
   text-align: center;
-color: #000;
+  color: #000;
 }
 
 /* Centered text */
