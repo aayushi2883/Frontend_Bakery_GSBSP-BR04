@@ -1,3 +1,6 @@
+
+  /* Headings */
+
 .first_heading{
   font-family: 'Bungee Shade', cursive;
   text-align: center;
@@ -5,10 +8,6 @@
   margin-bottom: 0px;
   height: 170px;
   font-stretch: expanded;
-
-
-  /* margin-top: 140px;
-  height: 170px; */
 
 }
 .second_heading{
