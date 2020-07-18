@@ -1,0 +1,34 @@
+.first_heading{
+  font-family: 'Bungee Shade', cursive;
+  text-align: center;
+  font-size: 6rem;
+  margin-bottom: 0px;
+  height: 170px;
+  font-stretch: expanded;
+
+
+  /* margin-top: 140px;
+  height: 170px; */
+
+}
+.second_heading{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+/* Container holding the image and text */
+.first {
+  position: relative;
+  text-align: center;
+color: #000;
+}
+
+/* Centered text */
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
