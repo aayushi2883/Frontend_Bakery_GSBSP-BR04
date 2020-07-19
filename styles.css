@@ -10,8 +10,9 @@ color: #000;
 }
 
 .nav-item{
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #000;
 }
 
 
@@ -51,4 +52,21 @@ margin-bottom: 0px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+/* About section */
+
+.about_first{
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5rem;
+
+
+}
+
+.about_second{
+  font-family: 'Rowdies', cursive;
+text-align: left;
+font-size: 1.5rem;
+font-weight: bolder;
 }
